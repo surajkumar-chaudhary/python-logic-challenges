@@ -1,4 +1,4 @@
-text = "love in Python programming in"
+text = "I love in Python programming"
 
 words = text.split()
 multiple_shortest_word = []
